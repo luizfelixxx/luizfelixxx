@@ -19,6 +19,6 @@ Sou um entusiasta de tecnologia e desenvolvimento de software. Atualmente, estou
 
 ## 📫 Como me encontrar  
 
-[![LinkedIn]([[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedi](https://www.linkedin.com/in/felix-tech/)n](https://www.linkedin.com/in/felix-tech/))  
+[LinkedIn](https://www.linkedin.com/in/felix-tech/)  
 
 💬 Me chame para trocar uma ideia sobre tecnologia e projetos! 🚀  
