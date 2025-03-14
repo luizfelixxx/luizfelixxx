@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luiz Felix Nascimento Neto
+# Olá, eu sou Luiz Felix Nascimento 
 
 Sou um entusiasta de tecnologia e desenvolvimento de software. Atualmente, estou me aprimorando em desenvolvimento back-end e front-end, explorando APIs REST, arquitetura de software e boas práticas de desenvolvimento.  
 
